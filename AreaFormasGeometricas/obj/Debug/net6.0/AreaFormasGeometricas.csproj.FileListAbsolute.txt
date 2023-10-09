@@ -1,0 +1,15 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\bin\Debug\net6.0\AreaFormasGeometricas.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\bin\Debug\net6.0\AreaFormasGeometricas.deps.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\bin\Debug\net6.0\AreaFormasGeometricas.runtimeconfig.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\bin\Debug\net6.0\AreaFormasGeometricas.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\bin\Debug\net6.0\AreaFormasGeometricas.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\AreaFormasGeometricas.csproj.AssemblyReference.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\AreaFormasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\AreaFormasGeometricas.AssemblyInfoInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\AreaFormasGeometricas.AssemblyInfo.cs
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\AreaFormasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\AreaFormasGeometricas.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\refint\AreaFormasGeometricas.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\AreaFormasGeometricas.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\AreaFormasGeometricas.genruntimeconfig.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\AreaFormasGeometricas\AreaFormasGeometricas\obj\Debug\net6.0\ref\AreaFormasGeometricas.dll
